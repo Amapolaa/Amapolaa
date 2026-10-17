@@ -1,11 +1,11 @@
 ## Hi there 🌱
-My name is Amapola Garcia I became aware of the inequalities that shape people's access to resources and opportunities through my lived experiences growing up in East Los Angeles. My commitment to equity led her to study Sociology with a concentration in Social Inequality at UC San Diego. Interested in using quantitative methods to better understand these disparities. 
+My name is Amapola Garcia
 <!--
 **Amapolaa/Amapolaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on my Masters in Enviormental Data Science degree
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
